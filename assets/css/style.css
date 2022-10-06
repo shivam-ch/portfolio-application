@@ -229,7 +229,9 @@ Section
     color:#fff;
 }
 .sections3{
-    padding-top: 100px;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    padding-left: 400px;
     position: relative;
     overflow: hidden;
 }
