@@ -475,18 +475,23 @@ textarea::-ms-input-placeholder
 }
 .home-wrapper{
     margin-top:240px;
+    margin-right: 600px;
     color:#fff;
 }
-.home-content h1{
-    font-size:65px;
+.home-content h2{
+    color: #fff;
+    
+}
+h1{
+    font-size:50px;
     text-transform:uppercase;
     color:#fff;
     font-weight:900;
     font-family: "Raleway Webfont";
-    letter-spacing:12px;
+    letter-spacing:5px;
     border-top:2px solid #ecf0f2;
     border-bottom:2px solid #ecf0f2;
-    padding:20px 0;
+    padding:0px;
 } 
 .home-content p{
     font-size:25px;
