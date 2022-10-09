@@ -1,6 +1,7 @@
 ﻿== Theme Name: Personal Portfolio Template
 == Copyright (c) 2016 BootstrapThemes.co
 
+updated
 == http://BootstrapThemes.co
 
 
