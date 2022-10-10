@@ -644,6 +644,12 @@ h1{
 .portfolio-wrapper2 .portfolio-item.width-img img{
     width:100%;
 }
+.portfolio-content{
+    background-color: gray;
+}
+.portfolio-content h3{
+    color: white;
+}
 
 /* For Testimonial Section*/
 .testimonial-content{
